@@ -11,3 +11,6 @@ Type II		Tissu cartilagineux ; rôle dans la flexibilité et la résistance à l
 Type III		Derme et parois des vaisseaux sanguins.
 		
 <img width="1219" height="105" alt="image" src="https://github.com/user-attachments/assets/f6167689-a866-4c88-b210-35a34716557a" />
+
+
+<img alt="" class="ytCoreImageHost ytCoreImageFillParentHeight ytCoreImageFillParentWidth ytCoreImageContentModeScaleAspectFill ytCoreImageLoaded" style="background-color: transparent;" src="blob:https://www.youtube.com/7657ec91-2e79-405f-a5bb-3f8bf7a37abf">
