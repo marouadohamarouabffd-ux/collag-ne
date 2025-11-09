@@ -13,4 +13,3 @@ Type III		Derme et parois des vaisseaux sanguins.
 <img width="1219" height="105" alt="image" src="https://github.com/user-attachments/assets/f6167689-a866-4c88-b210-35a34716557a" />
 
 
-<iframe width="796" height="456" src="https://www.youtube.com/embed/DdNBKzL5EaE" title="Santé - Collagène : c’est bon pour la santé ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
