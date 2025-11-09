@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/f7012979-64e6-45b3-9c5f-d0cbd43e896e
 # collag-ne
 extraction et valorisation du collagène de peau de poisson pour formulation cosmétique :extraction , caractérisation et mise au point d'un gel_topique 
 
@@ -11,5 +13,7 @@ extraction et valorisation du collagène de peau de poisson pour formulation cos
 
 
 
-<!-- Failed to upload "YTDown.com_YouTube_Copalis-produit-des-tonnes-de-collagene_Media_Bmkl5_axSPI_001_720p.mp4" -->
+Uploading YTDown.com_YouTube_Copalis-produit-des-tonnes-de-collagene_Media_Bmkl5_axSPI_002_360p.mp4
+
+
 
