@@ -6,6 +6,9 @@ extraction et valorisation du collagène de peau de poisson pour formulation cos
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/21f262f9-4a6f-47bc-97ad-d2c525a5622c" />
 
+		
+<img width="1219" height="105" alt="image" src="https://github.com/user-attachments/assets/813debcc-f84a-4755-adaf-de66e7bc7977" />
+
 
 Uploading YTDown.com_YouTube_Copalis-produit-des-tonnes-de-collagene_Media_Bmkl5_axSPI_002_360p.mp4
 
